@@ -25,7 +25,8 @@ php "%BIN_TARGET%" %*</li>
 
 <p>Reinicia la consola y simplemente escribe wp --info. Si has hecho todo bien debe aparecerte la misma información que antes cuando ejecutamos </p>
 <li>php wp-cli.phar --info</li>
-
+<img src="wpcli/Captura1.PNG" alt="My cool logo"/>
+<br>
 <p> Una vez realizados todos los preparativos, ejecutamos el comando WP-ClI para eliminar las options, el comando es:<p>
   <li>wp option delete fs_active_plugins fs_debug_mode fs_accounts fs_wsalp</li>
  <img src="wpcli/Captura.PNG" alt="My cool logo"/>
