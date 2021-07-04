@@ -44,5 +44,7 @@ php "%BIN_TARGET%" %*</li>
   <p> quedando de esta forma en ambos sites<p>
   <img src="foter/CapturaSite1.PNG" alt="My cool logo"/>
   <img src="foter/CapturaSite2.PNG" alt="My cool logo"/>
-  
+  <br>
+<p> en cuanto al desarrollo del plugin no he podido realizarlo ya que mi pc me estaba dando problemas con php continuamente, adjunto el codigo</p>
+ 
   
