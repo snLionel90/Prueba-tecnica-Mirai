@@ -1,6 +1,9 @@
 # Prueba-tecnica-Mirai
 -----------------------
 <h1>Tutorial de administracion de Worpress.</h1>
+<p>Parala activacion de multisite ,ver capturas en:<p>
+ https://github.com/snLionel90/Prueba-tecnica-Mirai/tree/main/multisite
+  <br>
 <h2>Fase 1</h2>
 <h3>La instalación de WP-CLI es sencilla. En principio tienes que descargar un archivo PHP y ponerlo en algún lugar de tu servidor para poder ejecutarlo desde donde te encuentres. Puedes descargar WP-CLI desde su repositorio en GitHub, tecleando lo siguiente:</h3>
 <ul>
