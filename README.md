@@ -4,7 +4,7 @@
 <p>Parala activacion de multisite ,ver capturas en:<p>
  https://github.com/snLionel90/Prueba-tecnica-Mirai/tree/main/multisite
   <br>
-<h2>Fase 1</h2>
+<h2>Prueba 1</h2>
 <h3>La instalación de WP-CLI es sencilla. En principio tienes que descargar un archivo PHP y ponerlo en algún lugar de tu servidor para poder ejecutarlo desde donde te encuentres. Puedes descargar WP-CLI desde su repositorio en GitHub, tecleando lo siguiente:</h3>
 <ul>
   <li>curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar</li> 
@@ -32,7 +32,7 @@ php "%BIN_TARGET%" %*</li>
   <br>
   <p> como la instalacion es de serie dichas opctiones no estan incluidas, pero en el caso de tenerlas, dejarian de estar disponibles</p>
   <br>
-  <h2>Fase 2</h2>
+  <h2>Prueba 2</h2>
   <h3>La modificacion de los temas es muy sencillo, para ello, tendras que entrar en el site, recuerda desde administracion (http://localhost/wordpress/site2/wp-admin/), en mi caso por ejemplo site2, e ir a:</h3>
   <li>escritorio -> apariencia -> personalizar<li>
    <img src="foter/Captura0.PNG" alt="My cool logo"/>
